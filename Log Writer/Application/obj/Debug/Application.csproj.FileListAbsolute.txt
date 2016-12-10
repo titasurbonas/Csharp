@@ -1,0 +1,35 @@
+C:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogUsers.exe.config
+C:\VS2012\LogTest\LogTest\LogUsers\obj\Debug\LogUsers.exe
+C:\VS2012\LogTest\LogTest\LogUsers\obj\Debug\LogUsers.pdb
+C:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogUsers.exe
+C:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogUsers.pdb
+C:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogTest.dll
+C:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogTest.pdb
+C:\VS2012\LogTest\LogTest\LogUsers\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\VS2012\LogTest\LogTest\Application\bin\Debug\LogUsers.exe.config
+C:\VS2012\LogTest\LogTest\Application\obj\Debug\LogUsers.exe
+C:\VS2012\LogTest\LogTest\Application\obj\Debug\LogUsers.pdb
+C:\VS2012\LogTest\LogTest\Application\bin\Debug\LogUsers.exe
+C:\VS2012\LogTest\LogTest\Application\bin\Debug\LogUsers.pdb
+C:\VS2012\LogTest\LogTest\Application\bin\Debug\LogTest.dll
+C:\VS2012\LogTest\LogTest\Application\bin\Debug\LogTest.pdb
+C:\VS2012\LogTest\LogTest\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\titas\Desktop\New folder\Test\Application\bin\Debug\LogUsers.exe.config
+C:\Users\titas\Desktop\New folder\Test\Application\obj\Debug\LogUsers.exe
+C:\Users\titas\Desktop\New folder\Test\Application\obj\Debug\LogUsers.pdb
+C:\Users\titas\Desktop\New folder\Test\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\titas\Desktop\New folder\Test\Application\bin\Debug\LogUsers.exe
+C:\Users\titas\Desktop\New folder\Test\Application\bin\Debug\LogUsers.pdb
+C:\Users\titas\Desktop\New folder\Test\Application\bin\Debug\LogTest.dll
+C:\Users\titas\Desktop\New folder\Test\Application\bin\Debug\LogTest.pdb
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\Application\bin\Debug\LogUsers.exe.config
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\Application\obj\Debug\LogUsers.exe
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\Application\obj\Debug\LogUsers.pdb
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\Application\bin\Debug\LogUsers.exe
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\Application\bin\Debug\LogUsers.pdb
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\Application\bin\Debug\LogTest.dll
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\Application\bin\Debug\LogTest.pdb
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+D:\programing\Csharp\Log Writer\Application\bin\Debug\LogUsers.exe.config
+D:\programing\Csharp\Log Writer\Application\obj\Debug\LogUsers.exe
+D:\programing\Csharp\Log Writer\Application\obj\Debug\LogUsers.pdb

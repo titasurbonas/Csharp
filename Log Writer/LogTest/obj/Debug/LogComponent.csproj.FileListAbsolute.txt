@@ -1,0 +1,15 @@
+C:\VS2012\LogTest\LogTest\LogTest\bin\Debug\LogTest.dll
+C:\VS2012\LogTest\LogTest\LogTest\bin\Debug\LogTest.pdb
+C:\VS2012\LogTest\LogTest\LogTest\obj\Debug\LogTest.dll
+C:\VS2012\LogTest\LogTest\LogTest\obj\Debug\LogTest.pdb
+C:\VS2012\LogTest\LogTest\LogTest\obj\Debug\LogComponent.csprojResolveAssemblyReference.cache
+C:\Users\titas\Desktop\New folder\Test\LogTest\obj\Debug\LogComponent.csprojResolveAssemblyReference.cache
+C:\Users\titas\Desktop\New folder\Test\LogTest\obj\Debug\LogTest.dll
+C:\Users\titas\Desktop\New folder\Test\LogTest\obj\Debug\LogTest.pdb
+C:\Users\titas\Desktop\New folder\Test\LogTest\bin\Debug\LogTest.dll
+C:\Users\titas\Desktop\New folder\Test\LogTest\bin\Debug\LogTest.pdb
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\LogTest\bin\Debug\LogTest.dll
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\LogTest\bin\Debug\LogTest.pdb
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\LogTest\obj\Debug\LogComponent.csprojResolveAssemblyReference.cache
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\LogTest\obj\Debug\LogTest.dll
+C:\Users\titas\Desktop\New folder\LogTest_Titas_Urbonas\LogTest\obj\Debug\LogTest.pdb
